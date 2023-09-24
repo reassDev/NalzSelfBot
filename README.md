@@ -16,14 +16,14 @@ Before using this, you have to remember that using a self bot is against the ter
 
 # Commands List
 
-Com - Prints out the list of commands, that the bot has.
-Ping - Returns the ping of the bot.
-Createrole - Creates a new role in the server you're in, with the text coming after the command being the name (If you have permission).
-Createchannel - Creates a new channel in the server you're in, with the text coming after the command being the name (If you have permission).
-Msg - Messages the user that you put after the command, with the message being what text is put after the user.
-Kick - Kicks the user that you put after the command, with the reason bieng what text is put after the user.
-Ban - Bans the user that you put after the command, with the reason bieng what text is put after the user.
-Serverinfo - Posts info about the server you post the command in.
-Userinfo - Posts info about the user that you put after the command.
-Base64encrypt - Encrypts whatever is put after the command with base64.
-Base64decrypt - Decrypts whatever is put after the command in base64.
+1. Com - Prints out the list of commands, that the bot has.
+2. Ping - Returns the ping of the bot.
+3. Createrole - Creates a new role in the server you're in, with the text coming after the command being the name (If you have permission).
+4. Createchannel - Creates a new channel in the server you're in, with the text coming after the command being the name (If you have permission).
+5. Msg - Messages the user that you put after the command, with the message being what text is put after the user.
+6. Kick - Kicks the user that you put after the command, with the reason bieng what text is put after the user.
+7. Ban - Bans the user that you put after the command, with the reason bieng what text is put after the user.
+8. Serverinfo - Posts info about the server you post the command in.
+9. Userinfo - Posts info about the user that you put after the command.
+10. Base64encrypt - Encrypts whatever is put after the command with base64.
+11. Base64decrypt - Decrypts whatever is put after the command in base64.
