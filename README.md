@@ -4,7 +4,7 @@ Self Bot (Against Discord Terms of Service)
 
 # Against Discord Terms of Service!
 
-Before using this, you have to remember that using a self bot is against the terms of service on Discord, and if you are caught using one you will be banned and have your account disabled. It is considered API Abuse and is not tolerated. I will not be updating this very frequently and I am not responsible for anything you decide to do with this. This code should be is use at your own risk and you can be punished for using it on your account.
+Before using this, you have to remember that using a self bot is against the terms of service on Discord, and if you are caught using one you will be banned and have your account disabled. It is considered API Abuse and is not tolerated. I will not be updating this very frequently and I am not responsible for anything you decide to do with this. This code should be used at your own risk and you can be punished for using it on your account.
 
 # License
 
