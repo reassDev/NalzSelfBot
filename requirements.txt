@@ -1,0 +1,9 @@
+selfcord
+regex
+discord
+pyfiglet
+datetime
+requests
+colorama
+aiohttp
+http.client
